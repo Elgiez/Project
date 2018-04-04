@@ -1,6 +1,5 @@
+# Test Project
 
-<html>
-  <head>Project with incredibly basic html
-  </head>
-  
-</html>
+This is my first project that takes advantage of the Git Version Control system.
+
+**Markdown is pretty cool, huh?**
