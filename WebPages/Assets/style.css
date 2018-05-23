@@ -12,19 +12,14 @@ h1{
   color:white;
   text-decoration-style: solid;
   text-decoration-color: black;
-  link: C:\Users\zacha\Documents\programming\Project\WebPages\Assets\Home\index.html;
 }
 ul {
-    list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #333;
     display:inline-block;
     text-align: center;
-    align-self: center;
-    margin-left: 495px;
-    position: relative;
     border-radius: 8px;
     font-family: 'Roboto', sans-serif;
 
@@ -39,10 +34,11 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 16px 20px;
     text-decoration: none;
     display:inline-block;
     text-align: center;
+    font-size: 18px;
 }
 li a:hover {
     background-color: #3498DB;
@@ -78,5 +74,9 @@ h3{
 }
 .belowcanvas{
   color: white;
-  
+  font-weight: bold;
+  font-size: 18px;
+}
+a{
+  color:white;
 }
