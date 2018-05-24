@@ -46,13 +46,12 @@ li a:hover {
 }
 canvas{
 border: 5px solid #3498DB;
-  margin-top: 100px;
-  margin-left: 350px;
+margin-top: 400px;
   background-color: white;
 }
 body{
   background-image:url("http://getwallpapers.com/wallpaper/full/e/c/e/445967.jpg");
-  background-repeat: no-repeat;
+  background-repeat:repeat;
   background-size: cover;
 }
 h3{
@@ -79,4 +78,19 @@ h3{
 }
 a{
   color:white;
+}
+form{
+  position: relative;
+  bottom: 400px;
+   color: white;
+}
+.email
+{
+  height:200px;
+  width:350px;
+  word-wrap: break-word;
+}
+.submit_button
+{
+
 }
