@@ -76,6 +76,20 @@ h3{
   font-weight: bold;
   font-size: 18px;
 }
+.bottom_screen{
+  position: relative;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  top:1600px;
+}
+.social{
+  position: relative;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  top:1600px;
+}
 a{
   color:white;
 }
@@ -84,11 +98,9 @@ form{
   bottom: 400px;
    color: white;
 }
-.email
+#subject
 {
-  height:200px;
-  width:350px;
-  word-wrap: break-word;
+  width: 350px;
 }
 .submit_button
 {
